@@ -1,16 +1,16 @@
 {
-	"format_version": 2,
+	"format_version": 1,
 	"header": {
-		"name": "Paradox AntiCheat",
-		"description": "A utility to fight against malicious hackers on Bedrock Edition ~ v2.19.53",
-		"uuid": "54edfea5-ab51-47ca-b992-724e255b5560",
+		"name": "Secure Network AntiCheat",
+		"description": "Classified",
+		"uuid": "c7c1d5f8-64cf-4267-a8a4-96ac3837b636",
 		"version": [2, 19, 53],
 		"min_engine_version": [1, 19, 0]
 	},
 	"metadata": {
-		"authors": ["MrDiamond64, Visual1mpact"],
-		"license": "GPLv3",
-		"url": "https://github.com/Visual1mpact/Paradox_AntiCheat"
+		"authors": ["CURS3D Network"],
+		"license": "SN",
+		"url": "NoUrl"
 	},
 	"modules": [{
 			"type": "data",
@@ -22,7 +22,7 @@
 			]
 		},
 		{
-			"description": "Paradox AntiCheat Gametest Features",
+			"description": "Secure Network AntiCheat Gametest Features",
 			"language": "javascript",
 			"type": "script",
 			"uuid": "1326c87b-37f3-4543-9f0f-0d03893134e1",
