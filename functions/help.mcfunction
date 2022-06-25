@@ -1,4 +1,4 @@
-tellraw @s {"rawtext":[{"text":"\n§l§6[§4Paradox AntiCheat Command Help§6]§r"}]}
+tellraw @s {"rawtext":[{"text":"\n§l§6[§bSecure Network Command Help§6]§r"}]}
 tellraw @s[scores={gametestapi=1..}] {"rawtext":[{"text":"\n§l§4Gametest Is Enabled In World!"}]}
 tellraw @s[scores={gametestapi=1..}] {"rawtext":[{"text":"\n§l§4Please use the command !help."}]}
 tellraw @s[scores={gametestapi=1..}] {"rawtext":[{"text":"\n§l§4All commands will use prefix commands!"}]}
@@ -9,7 +9,7 @@ tellraw @s[scores={gametestapi=..0}] {"rawtext":[{"text":"\n§l§6[§4Moderation
 
 # Gametest Disabled
 tellraw @s[scores={gametestapi=..0}] {"rawtext":[{"text":"§6/function help§r - Shows this help page."}]}
-tellraw @s[scores={gametestapi=..0}] {"rawtext":[{"text":"§6/execute <username> ~~~ op§r - Op's player in Paradox AntiCheat features."}]}
+tellraw @s[scores={gametestapi=..0}] {"rawtext":[{"text":"§6/execute <username> ~~~ op§r - Op's player in Secure Network AntiCheat features."}]}
 
 tellraw @s[scores={gametestapi=..0}] {"rawtext":[{"text":"\n§l§6[§4Tools and Utilites§6]§r"}]}
 
